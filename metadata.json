@@ -1,0 +1,5 @@
+{
+  "name": "WhatsApp Screenshot Sorter Pro",
+  "description": "An intelligent web application that uses AI to automatically sort WhatsApp and Facebook Messenger screenshots into organized folders based on the app and orientation.",
+  "requestFramePermissions": []
+}
